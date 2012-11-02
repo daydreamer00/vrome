@@ -1,0 +1,15 @@
+map j 5j
+map k 5k
+map J gT
+map K gt
+map v F
+set disablesites=mail.google.com, www.google.com/, http://tryruby.org,http://towords.com/
+set hintkeysdisplayuppercase=1
+
+" ;set hintkeys=dsafrewqtgcx
+
+set enable_vrome_key=<C-1>
+
+set nextpattern+=^NextPage|??|下一页|Next$
+
+set previouspattern+=^PrevPage|??|上一页|Prev$
