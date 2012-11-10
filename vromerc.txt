@@ -3,7 +3,7 @@ map k 5k
 map J gT
 map K gt
 map v F
-set disablesites=mail.google.com, www.google.com/, tryruby.org, towords.com/
+set disablesites=mail.google.com, www.google.com/reader, tryruby.org, towords.com/
 set hintkeysdisplayuppercase=1
 
 " ;set hintkeys=dsafrewqtgcx
