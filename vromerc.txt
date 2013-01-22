@@ -10,6 +10,6 @@ set hintkeysdisplayuppercase=1
 
 set enable_vrome_key=<C-1>
 
-set nextpattern+=^NextPage|??|下一页|Next$|>|>>|下页
+set nextpattern+=^NextPage|??|下一页|Next$|>|>>|下页|下页>
 
-set previouspattern+=^PrevPage|??|上一页|Prev$|<|<<|上页
+set previouspattern+=^PrevPage|??|上一页|Prev$|<|<<|上页|<上页
