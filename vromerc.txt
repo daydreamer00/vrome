@@ -3,7 +3,7 @@ map k 5k
 map J gT
 map K gt
 map v F
-set disablesites=mail.google.com, www.google.com/reader, tryruby.org, towords.com/, wanga.me, www.kongregate.com/, www.armorgames.com/, www.feedly.com
+set disablesites=mail.google.com, www.google.com/reader, tryruby.org, towords.com/, wanga.me, www.kongregate.com/, www.armorgames.com/, www.feedly.com/, www.netvibes.com/
 set hintkeysdisplayuppercase=1
 
 " ;set hintkeys=dsafrewqtgcx
