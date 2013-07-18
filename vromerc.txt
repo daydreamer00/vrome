@@ -4,7 +4,7 @@ map J gT
 map K gt
 map v F
 set disablesites=mail.google.com, www.google.com/reader, tryruby.org, towords.com/, wanga.me, www.kongregate.com/, www.armorgames.com/, www.feedly.com/, www.netvibes.com/, web.sanguosha.com/, appimg2.qq.com/
-" set hintkeysdisplayuppercase=1
+set hintkeysdisplayuppercase=0
 
 " ;set hintkeys=dsafrewqtgcx
 
