@@ -3,6 +3,7 @@ map k 5k
 map J gT
 map K gt
 map v F
+map <C-'> <C-^>
 set disablesites=mail.google.com, www.google.com/reader, tryruby.org, towords.com/, wanga.me, www.kongregate.com/, www.armorgames.com/, www.feedly.com/, www.netvibes.com/, web.sanguosha.com/, appimg2.qq.com/£¬koding.com/
 set hintkeysdisplayuppercase=0
 
